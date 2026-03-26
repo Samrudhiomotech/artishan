@@ -1,0 +1,292 @@
+# ===============================
+# Node.js
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+frontend/.env
+backend/.env
+
+# ===============================
+# Build Outputs
+# ===============================
+dist/
+build/
+frontend/build/
+frontend/dist/
+backend/build/
+backend/dist/
+.next/
+.nuxt/
+.vuepress/dist/
+
+# ===============================
+# Logs
+# ===============================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===============================
+# Runtime Data
+# ===============================
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ===============================
+# Coverage Directory
+# ===============================
+coverage/
+*.lcov
+.nyc_output
+
+# ===============================
+# Dependency Directories
+# ===============================
+jspm_packages/
+
+# ===============================
+# TypeScript Cache
+# ===============================
+*.tsbuildinfo
+
+# ===============================
+# Optional npm Cache Directory
+# ===============================
+.npm
+
+# ===============================
+# Optional eslint cache
+# ===============================
+.eslintcache
+
+# ===============================
+# Optional REPL history
+# ===============================
+.node_repl_history
+
+# ===============================
+# Output of 'npm pack'
+# ===============================
+*.tgz
+
+# ===============================
+# Yarn Integrity file
+# ===============================
+.yarn-integrity
+
+# ===============================
+# dotenv environment variables file
+# ===============================
+.env.test
+
+# ===============================
+# parcel-bundler cache (https://parceljs.org/)
+# ===============================
+.cache
+.parcel-cache
+
+# ===============================
+# Next.js build output
+# ===============================
+.next
+
+# ===============================
+# Nuxt.js build / generate output
+# ===============================
+.nuxt
+dist
+
+# ===============================
+# Gatsby files
+# ===============================
+.cache/
+public
+
+# ===============================
+# Vuepress build output
+# ===============================
+.vuepress/dist
+
+# ===============================
+# Serverless directories
+# ===============================
+.serverless/
+
+# ===============================
+# FuseBox cache
+# ===============================
+.fusebox/
+
+# ===============================
+# DynamoDB Local files
+# ===============================
+.dynamodb/
+
+# ===============================
+# TernJS port file
+# ===============================
+.tern-port
+
+# ===============================
+# Stores VSCode versions used for testing VSCode extensions
+# ===============================
+.vscode-test
+
+# ===============================
+# yarn v2
+# ===============================
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# ===============================
+# MongoDB
+# ===============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ===============================
+# OS Generated Files
+# ===============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===============================
+# IDE / Editor Files
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===============================
+# Temporary Files
+# ===============================
+tmp/
+temp/
+*.tmp
+*.temp
+
+# ===============================
+# Test and Debug Scripts (keep these local)
+# ===============================
+test-*.mjs
+check-*.mjs
+debug-*.mjs
+monitor-*.mjs
+setup-*.mjs
+fix-*.mjs
+simple-*.mjs
+complete-*.mjs
+system-*.mjs
+detailed-*.mjs
+frontend-backend-*.mjs
+current-*.mjs
+api-*.mjs
+server-*.mjs
+connection-*.mjs
+integration-*.mjs
+response-*.mjs
+creation-*.mjs
+dropdown-*.mjs
+layout-*.mjs
+react-*.mjs
+paintings-*.mjs
+categories-*.mjs
+duplicate-*.mjs
+storage-*.mjs
+users-*.mjs
+database-*.mjs
+databases-*.mjs
+artist-*.mjs
+profile-*.mjs
+
+# ===============================
+# Upload Directories
+# ===============================
+uploads/
+backend/uploads/
+frontend/uploads/
+public/uploads/
+
+# ===============================
+# Cloudinary / Image Cache
+# ===============================
+.cloudinary/
+
+# ===============================
+# Local Configuration Files
+# ===============================
+config/local.js
+config/local.json
+config/local.yml
+config/local.yaml
+
+# ===============================
+# Backup Files
+# ===============================
+*.bak
+*.backup
+*.old
+
+# ===============================
+# Generated Documentation
+# ===============================
+docs/generated/
+
+# ===============================
+# Cache Directories
+# ===============================
+.cache/
+.parcel-cache/
+.eslintcache
+
+# ===============================
+# Local Development Files
+# ===============================
+local/
+dev/
+development/
+
+# ===============================
+# Vercel
+# ===============================
+.vercel
+
+# ===============================
+# Netlify
+# ===============================
+.netlify
+
+# ===============================
+# Storybook Build Outputs
+# ===============================
+storybook-static
